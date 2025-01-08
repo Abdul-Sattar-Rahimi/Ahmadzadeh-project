@@ -1,0 +1,46 @@
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\bin\Debug\Project Mohamad Ahmadzade.exe.config
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\bin\Debug\Project Mohamad Ahmadzade.exe
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\bin\Debug\Project Mohamad Ahmadzade.pdb
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.Form1.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.Properties.Resources.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\obj\Debug\Project Mohamad Ahmadzade.csproj.GenerateResource.Cache
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\obj\Debug\Project Mohamad Ahmadzade.exe
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\obj\Debug\Project Mohamad Ahmadzade.pdb
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.MainPage.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.Form3.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.Form4.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\bin\Debug\GHNet.Win.dll
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\bin\Debug\GHNet.dll
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\obj\Debug\Project Mohamad Ahmadzade.csprojResolveAssemblyReference.cache
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.Form7.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.Form5.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.Form6.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\obj\Debug\Interop.WMPLib.dll
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\obj\Debug\AxInterop.WMPLib.dll
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\obj\Debug\Project Mohamad Ahmadzade.csproj.ResolveComReference.cache
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\bin\Debug\Interop.WMPLib.dll
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\bin\Debug\AxInterop.WMPLib.dll
+D:\Ahmadzade pro\Project Mohamad Ahmadzade\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.Form8.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\bin\Debug\Project Mohamad Ahmadzade.exe.config
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\obj\Debug\Interop.WMPLib.dll
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\obj\Debug\AxInterop.WMPLib.dll
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\obj\Debug\Project Mohamad Ahmadzade.csproj.ResolveComReference.cache
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\obj\Debug\Project Mohamad Ahmadzade.exe
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\obj\Debug\Project Mohamad Ahmadzade.pdb
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\bin\Debug\Project Mohamad Ahmadzade.exe
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\bin\Debug\Project Mohamad Ahmadzade.pdb
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\bin\Debug\GHNet.Win.dll
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\bin\Debug\GHNet.dll
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\bin\Debug\Interop.WMPLib.dll
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\bin\Debug\AxInterop.WMPLib.dll
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\obj\Debug\Project Mohamad Ahmadzade.csprojResolveAssemblyReference.cache
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.MainPage.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.Form3.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.Form1.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.Form4.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.Form5.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.Form6.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.Form7.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.Form8.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\obj\Debug\Project_Mohamad_Ahmadzade.Properties.Resources.resources
+D:\Ahmadzade pro\Project Mohamad Ahmadzade - Copy (4) - Copy\Project Mohamad Ahmadzade\obj\Debug\Project Mohamad Ahmadzade.csproj.GenerateResource.Cache
