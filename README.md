@@ -1,2 +1,2 @@
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://files.catbox.moe/fcrmk5.gif" width="400" height="225">
+<img data-src="https://gcdnb.pbrd.co/images/cWpLFt3BLXQS.gif?o=1" data-load-src="https://pasteboard.co/images/cWpLFt3BLXQS.gif/load" alt="uploaded image" class="image js" src="https://gcdnb.pbrd.co/images/cWpLFt3BLXQS.gif?o=1">
