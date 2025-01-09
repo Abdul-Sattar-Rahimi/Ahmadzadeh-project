@@ -1,3 +1,3 @@
 
 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 25%);" src="https://files.catbox.moe/fcrmk5.gif">
+<a href="https://imgurl.ir/viewer.php?file=e3233_ARahimi_12345.gif"><img src="https://imgurl.ir/uploads/e3233_ARahimi_12345_thumb.gif" border="0" alt="e3233_ARahimi_12345.gif" /></a>
