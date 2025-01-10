@@ -68,6 +68,5 @@
     <img class="small-image" src="https://imgurl.ir/uploads/g222460_New_Project_4.png" alt="Image 3">
     <a class="text-link" href="https://chatgpt.com/" target="_blank">هدایت به هوش مصنوعی منبع</a>
   </div>
-</body>
-</html>
+
 
