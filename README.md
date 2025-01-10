@@ -59,9 +59,8 @@
   <title>Small Image Display</title>
   <style>
     .small-image {
-      width: 50px; /* عرض تصویر */
+      width: 1px; /* عرض تصویر */
       height: auto; /* ارتفاع متناسب با عرض */
-      border-radius: 5px; /* گوشه‌های گرد (اختیاری) */
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* سایه برای زیبایی (اختیاری) */
     }
   </style>
