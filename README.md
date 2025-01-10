@@ -74,8 +74,8 @@
       font-size: 18px;
     }
     .link-item img {
-      width: 24px;
-      height: 24px;
+      width: 20px; /* تغییر اندازه آیکون به 20px */
+      height: 20px; /* ارتفاع آیکون نیز به 20px تنظیم شد */
     }
     .link-item a {
       text-decoration: none;
@@ -109,6 +109,3 @@
   </div>
 </body>
 </html>
-
-
-
