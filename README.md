@@ -57,25 +57,25 @@
   <style>
     body {
       font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
       text-align: center;
-      background-color: #f4f4f9;
     }
     .container {
       display: flex;
       flex-direction: column;
       align-items: center;
-      gap: 15px;
-      margin-top: 50px;
+      gap: 15px; /* فاصله بین لینک‌ها */
+      margin-top: 30px;
     }
     .link-item {
       display: flex;
       align-items: center;
-      gap: 10px;
-      font-size: 18px;
+      gap: 10px; /* فاصله بین آیکن و متن */
+      font-size: 16px;
     }
     .link-item img {
-      width: 20px; /* تغییر اندازه آیکون به 20px */
-      height: 20px; /* ارتفاع آیکون نیز به 20px تنظیم شد */
+      width: 24px; /* عرض آیکن */
+      height: 24px; /* ارتفاع آیکن */
     }
     .link-item a {
       text-decoration: none;
@@ -89,22 +89,21 @@
   </style>
 </head>
 <body>
-  <h1>Follow Us</h1>
   <div class="container">
-    <!-- ChatGPT -->
+    <!-- اولین آیکن و لینک -->
     <div class="link-item">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT Logo">
-      <a href="https://chat.openai.com/" target="_blank">ChatGPT</a>
+      <img src="اینجا-لینک-آیکن-اول.svg" alt="Logo">
+      <a href="اینجا-لینک-اول" target="_blank">نام-پلتفرم-اول</a>
     </div>
-    <!-- YouTube -->
+    <!-- دومین آیکن و لینک -->
     <div class="link-item">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo">
-      <a href="https://www.youtube.com/" target="_blank">YouTube</a>
+      <img src="اینجا-لینک-آیکن-دوم.svg" alt="Logo">
+      <a href="اینجا-لینک-دوم" target="_blank">نام-پلتفرم-دوم</a>
     </div>
-    <!-- Aparat -->
+    <!-- سومین آیکن و لینک -->
     <div class="link-item">
-      <img src="https://www.aparat.com/favicon.ico" alt="Aparat Logo">
-      <a href="https://www.aparat.com/" target="_blank">Aparat</a>
+      <img src="https://www.aparat.com/redesign/static/img/branding/img8.png" alt="Logo">
+      <a href="اینجا-لینک-سوم" target="_blank">نام-پلتفرم-سوم</a>
     </div>
   </div>
 </body>
