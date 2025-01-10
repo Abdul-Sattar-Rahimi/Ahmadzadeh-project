@@ -10,7 +10,6 @@
 - استفاده از مفاهیم پایه‌ای برنامه‌نویسی شیءگرا (**OOP**) مانند متدها، کلاس‌ها، و مدیریت رویدادها.
 - امکان جابجایی بین فرم‌های مختلف (فرم اصلی، بازی‌ها و بخش‌های دیگر).
 
--
 # طراحی با Windows Forms:
 
 تمامی فرم‌ها به صورت گرافیکی طراحی شده‌اند تا تجربه کاربری (User Experience) خوبی ارائه دهند.
@@ -77,3 +76,27 @@
   </div>
 </body>
 </html>
+
+
+
+
+
+
+
+<div class="container">
+    <img class="small-image" src="https://imgurl.ir/uploads/j252676_New_Project_2.png" alt="Image 1">
+    <a class="text-link" href="https://example1.com" target="_blank">Visit Example 1</a>
+  </div>
+
+  <div class="container">
+    <img class="small-image" src="https://imgurl.ir/uploads/s233542_New_Project_3.png" alt="Image 2">
+    <a class="text-link" href="https://example2.com" target="_blank">Visit Example 2</a>
+  </div>
+
+  <div class="container">
+    <img class="small-image" src="https://imgurl.ir/uploads/g222460_New_Project_4.png" alt="Image 3">
+    <a class="text-link" href="https://example3.com" target="_blank">Visit Example 3</a>
+  </div>
+</body>
+</html>
+
