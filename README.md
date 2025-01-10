@@ -66,6 +66,6 @@
 
 <div class="container">
     <img class="small-image" src="https://imgurl.ir/uploads/g222460_New_Project_4.png" alt="Image 1">
-    <a class="text-link" href="https://www.aparat.com/darsman.ir" target="_blank">هدایت به کانال منبع</a>
+    <a class="text-link" href="https://chatgpt.com" target="_blank">هدایت به کانال منبع</a>
   </div>
 
