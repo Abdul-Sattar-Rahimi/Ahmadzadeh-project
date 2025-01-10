@@ -60,7 +60,7 @@
   </div>
 
   <div class="container">
-    <img class="small-image" src="https://imgurl.ir/viewer.php?file=s233542_New_Project_3.png" alt="Image 2">
+    <img class="small-image" src="https://imgurl.ir/uploads/s233542_New_Project_3.png" alt="Image 2">
     <a class="text-link" href="https://www.youtube.com/@CodeCraks" target="_blank">هدایت به کانال منبع</a>
   </div>
 
