@@ -102,7 +102,7 @@
     </div>
     <!-- سومین آیکن و لینک -->
     <div class="link-item">
-      <img src="https://farsgraphic.com/wp-content/uploads/2016/03/aparat-farsgraphic-150x150.png" alt="Logo">
+      <img src="https://farsgraphic.com/wp-content/uploads/2016/03/aparat-farsgraphic.png" alt="Logo">
       <a href="اینجا-لینک-سوم" target="_blank">نام-پلتفرم-سوم</a>
     </div>
   </div>
