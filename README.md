@@ -61,3 +61,19 @@
   </div>
 </body>
 </html>
+
+</head>
+<body>
+  <div style="text-align: center; margin-top: 20px;">
+    <img class="small-image" src="https://imgurl.ir/uploads/s233542_New_Project_3.png" alt="Small Image">
+  </div>
+</body>
+</html>
+
+</head>
+<body>
+  <div style="text-align: center; margin-top: 20px;">
+    <img class="small-image" src="https://imgurl.ir/uploads/g222460_New_Project_4.png" alt="Small Image">
+  </div>
+</body>
+</html>
