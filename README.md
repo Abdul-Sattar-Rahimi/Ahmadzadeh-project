@@ -74,8 +74,8 @@
       font-size: 16px;
     }
     .link-item img {
-      width: 24px; /* عرض آیکن */
-      height: 24px; /* ارتفاع آیکن */
+      width: 10px; /* عرض آیکن */
+      height: 10px; /* ارتفاع آیکن */
     }
     .link-item a {
       text-decoration: none;
