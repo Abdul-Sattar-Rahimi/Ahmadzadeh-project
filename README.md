@@ -52,22 +52,12 @@
 
 
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Small Image Display</title>
-  <style>
-    .small-image {
-      width: 1px; /* عرض تصویر */
-      height: auto; /* ارتفاع متناسب با عرض */
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* سایه برای زیبایی (اختیاری) */
-    }
+
   </style>
 </head>
 <body>
   <div style="text-align: center; margin-top: 20px;">
-    <img class="small-image" src="https://farsgraphic.com/wp-content/uploads/2016/03/aparat-farsgraphic.png" alt="Small Image">
+    <img class="small-image" src="https://imgurl.ir/uploads/z147895_New_Project_1.png" alt="Small Image">
   </div>
 </body>
 </html>
