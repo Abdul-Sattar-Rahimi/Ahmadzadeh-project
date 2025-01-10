@@ -53,11 +53,11 @@
 
 
 
-  </style>
+  
 </head>
 <body>
   <div style="text-align: center; margin-top: 20px;">
-    <img class="small-image" src="https://imgurl.ir/uploads/z147895_New_Project_1.png" alt="Small Image">
+    <img class="small-image" src="https://imgurl.ir/uploads/j252676_New_Project_2.png" alt="Small Image">
   </div>
 </body>
 </html>
