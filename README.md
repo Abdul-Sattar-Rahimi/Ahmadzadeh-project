@@ -48,63 +48,27 @@
 از الگوریتم‌های ساده برای منطق بازی و تعامل استفاده شده است.
 
 
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Social Links</title>
+  <title>Small Image Display</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f9f9f9;
-      text-align: center;
-    }
-    .container {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 15px; /* فاصله بین لینک‌ها */
-      margin-top: 30px;
-    }
-    .link-item {
-      display: flex;
-      align-items: center;
-      gap: 10px; /* فاصله بین آیکن و متن */
-      font-size: 16px;
-    }
-    .link-item img {
-      width: 10px; /* عرض آیکن */
-      height: 10px; /* ارتفاع آیکن */
-    }
-    .link-item a {
-      text-decoration: none;
-      color: #0078d7;
-      font-weight: bold;
-      transition: color 0.3s;
-    }
-    .link-item a:hover {
-      color: #0056a3;
+    .small-image {
+      width: 50px; /* عرض تصویر */
+      height: auto; /* ارتفاع متناسب با عرض */
+      border-radius: 5px; /* گوشه‌های گرد (اختیاری) */
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* سایه برای زیبایی (اختیاری) */
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <!-- اولین آیکن و لینک -->
-    <div class="link-item">
-      <img src="اینجا-لینک-آیکن-اول.svg" alt="Logo">
-      <a href="اینجا-لینک-اول" target="_blank">نام-پلتفرم-اول</a>
-    </div>
-    <!-- دومین آیکن و لینک -->
-    <div class="link-item">
-      <img src="اینجا-لینک-آیکن-دوم.svg" alt="Logo">
-      <a href="اینجا-لینک-دوم" target="_blank">نام-پلتفرم-دوم</a>
-    </div>
-    <!-- سومین آیکن و لینک -->
-    <div class="link-item">
-      <img src="https://farsgraphic.com/wp-content/uploads/2016/03/aparat-farsgraphic.png" alt="Logo">
-      <a href="اینجا-لینک-سوم" target="_blank">نام-پلتفرم-سوم</a>
-    </div>
+  <div style="text-align: center; margin-top: 20px;">
+    <img class="small-image" src="https://farsgraphic.com/wp-content/uploads/2016/03/aparat-farsgraphic.png" alt="Small Image">
   </div>
 </body>
 </html>
