@@ -48,3 +48,67 @@
 از الگوریتم‌های ساده برای منطق بازی و تعامل استفاده شده است.
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Social Links</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f4f4f9;
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 15px;
+      margin-top: 50px;
+    }
+    .link-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 18px;
+    }
+    .link-item img {
+      width: 24px;
+      height: 24px;
+    }
+    .link-item a {
+      text-decoration: none;
+      color: #0078d7;
+      font-weight: bold;
+      transition: color 0.3s;
+    }
+    .link-item a:hover {
+      color: #0056a3;
+    }
+  </style>
+</head>
+<body>
+  <h1>Follow Us</h1>
+  <div class="container">
+    <!-- ChatGPT -->
+    <div class="link-item">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT Logo">
+      <a href="https://chat.openai.com/" target="_blank">ChatGPT</a>
+    </div>
+    <!-- YouTube -->
+    <div class="link-item">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo">
+      <a href="https://www.youtube.com/" target="_blank">YouTube</a>
+    </div>
+    <!-- Aparat -->
+    <div class="link-item">
+      <img src="https://www.aparat.com/favicon.ico" alt="Aparat Logo">
+      <a href="https://www.aparat.com/" target="_blank">Aparat</a>
+    </div>
+  </div>
+</body>
+</html>
+
+
+
