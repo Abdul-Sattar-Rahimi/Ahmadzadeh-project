@@ -53,20 +53,20 @@
 
 
  
-
+# منابع پروژه
 <div class="container">
     <img class="small-image" src="https://imgurl.ir/uploads/j252676_New_Project_2.png" alt="Image 1">
     <a class="text-link" href="https://www.aparat.com/darsman.ir" target="_blank">هدایت به کانال منبع</a>
   </div>
 
   <div class="container">
-    <img class="small-image" src="https://www.youtube.com/@CodeCraks" alt="Image 2">
-    <a class="text-link" href="https://example2.com" target="_blank">Visit Example 2</a>
+    <img class="small-image" src="https://imgurl.ir/viewer.php?file=s233542_New_Project_3.png" alt="Image 2">
+    <a class="text-link" href="https://www.youtube.com/@CodeCraks" target="_blank">هدایت به کانال منبع</a>
   </div>
 
-  <div class="container">
+  <div class="container"
     <img class="small-image" src="https://imgurl.ir/uploads/g222460_New_Project_4.png" alt="Image 3">
-    <a class="text-link" href="https://chatgpt.com/" target="_blank">Visit Example 3</a>
+    <a class="text-link" href="https://chatgpt.com/" target="_blank">هدایت به هوش مصنوعی منبع</a>
   </div>
 </body>
 </html>
