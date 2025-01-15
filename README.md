@@ -14,11 +14,8 @@
 
 از آنجایی که من از ویندوز۷ استفاده می‌کنم نتوانستم از ورژن Visual Studio 2022 استفاده کنم، چون این نسخه از visual studio برای ویندوز ۱۰ و ۱۱ طراحی شده و من ناچار به استفاده از ورژن Visual Studio 2015 شدم.ممکن است این موضوع باعث رخ دادن خطا هایی در زمان کامپایل پروژه شود.از این رو تصمیم گرفتم یک پروژه دیگر با سیستم یکی از دوستان دانشجو بسازم که با نام Project-Ahmadzadeh-2 در صفحه Github بنده، قابل مشاهده است.
 
-- موضوع پروژه اول :
-  -Password Manager
-
-- موضوع پروژه دوم :
-  -Task Management App
+- Project 1 : Password Manager
+- Project 2 : Task Management App
 
 # طراحی با Windows Forms:
 
